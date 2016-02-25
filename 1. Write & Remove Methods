@@ -1,4 +1,4 @@
-Write Methods
+### Write Methods
 1. setValue
     writes/replaces data
 2. updateChildren
@@ -6,8 +6,8 @@ Write Methods
 3. push
     pushes to list of data, with an id, based on timestamp
     multiple child to same location without write conflict
-4. runTransaction
+2. runTransaction
     used when mulitple people are updating same object ex: a counter
 
-Read Methods
+### Read Methods
 
